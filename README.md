@@ -1,27 +1,52 @@
-# 💫 About Me:
-🔭 Currently Working On<br><br>Stock Market Prediction Model (Python, TensorFlow)<br><br>Data Analysis & Feature Engineering<br><br>Advanced DSA in C++<br><br>Financial Data Research<br><br>🌱 Currently Learning<br><br>Machine Learning Optimization<br><br>System Design Fundamentals<br><br>Deep Learning Architectures<br><br>Data Structures & Algorithms<br><br>👯 Open to Collaborate On<br><br>Data Science & ML Projects<br><br>Financial Analytics Systems<br><br>Backend Engineering (C++)<br><br>Open-Source Contributions<br><br>🤝 Looking For Help With<br><br>Scalable ML Deployment<br><br>Production-Level Model Building<br><br>Large Dataset Optimization<br><br>💬 Ask Me About<br><br>Python (Pandas, NumPy, EDA)<br><br>C++ & Problem Solving<br><br>Stock Market Data Analysis<br><br>Networking (VLSM, Static Routing)<br><br>Resume & Data Role Preparation<br><br>⚡ Fun Fact<br><br>I enjoy solving algorithmic problems more than scrolling.<br><br>I turn raw data into decisions.
+# Shyam Sanogar
 
+Data Science | Machine Learning | C++ | Financial Analytics  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DHZP2DgH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shyamsanogar/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/SHYAM-SANOGAR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamsanogar10@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShyamSanogar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShyamSanogar&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSanogar&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShyamSanogar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShyamSanogar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Turning raw data into decisions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShyamSanogar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Working On
+- Stock Market Prediction Model (Python, TensorFlow)
+- Financial Data Analysis & Feature Engineering
+- Advanced Data Structures & Algorithms (C++)
+- Quantitative Research Concepts
+
+## 🌱 Currently Learning
+- Machine Learning Optimization
+- Deep Learning Architectures
+- System Design Fundamentals
+- Advanced DSA for Interviews
+
+## 🤝 Open to Collaborate On
+- Data Science & ML Projects
+- Financial Analytics Systems
+- Backend Engineering (C++)
+- Open-Source Contributions
+
+## 💬 Ask Me About
+- Python (Pandas, NumPy, EDA)
+- C++ & Problem Solving
+- Stock Market Data Modeling
+- Networking (VLSM, Static Routing)
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/shyamsanogar/)  
+[Quora](https://www.quora.com/profile/SHYAM-SANOGAR)  
+Email: shyamsanogar10@gmail.com  
+
+---
+
+## 🛠 Tech Stack
+C | C++ | Java | Python  
+NumPy | Pandas | Matplotlib | OpenCV  
+TensorFlow | PyTorch | Scikit-Learn | Keras  
+MySQL | Power BI  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ShyamSanogar&theme=github_dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamSanogar&theme=github_dark&hide_border=true&layout=compact)
