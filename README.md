@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'am Currently Working On Stock Market Prediction Model (Python, TensorFlow)<br><br>🌱 Currently Learning Machine Learning Optimization<br><br>👯 Open to Collaborate On Data Science & ML Projects<br><br>🤝 Looking For Help With<br><br>Scalable ML Deployment<br><br>💬 Ask Me About<br><br>Python (Pandas, NumPy, EDA),C++ & Problem Solving and Stock Market Data Analysis<br><br>
+🔭 I'am Currently Working On Stock Market Prediction Model (Python, TensorFlow)<br><br>🌱 Currently Learning Machine Learning Optimization<br><br>👯 Open to Collaborate On Data Science & ML Projects<br><br>🤝 Looking For Help With Scalable ML Deployment<br><br>💬 Ask Me About Python (Pandas, NumPy, EDA),C++ & Problem Solving and Stock Market Data Analysis<br><br>
 
 
 ## 🌐 Socials:
